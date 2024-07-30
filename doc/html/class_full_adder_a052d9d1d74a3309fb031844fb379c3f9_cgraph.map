@@ -1,0 +1,9 @@
+<map id="FullAdder::setInputs" name="FullAdder::setInputs">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,156,57"/>
+<area shape="rect" id="node2" href="$class_half_adder.html#a38e0126a4cbd25cfdaf72e7399f09743" title=" " alt="" coords="209,5,354,32"/>
+<area shape="rect" id="node3" href="$class_half_adder.html#a26685c1162283948d2fb151c6368db72" title=" " alt="" coords="204,56,359,83"/>
+<area shape="rect" id="node4" href="$class_abstract_gate.html#ae608e9e36e35ec5422bb1c36266d4a35" title=" " alt="" coords="420,5,556,32"/>
+<area shape="rect" id="node5" href="$class_abstract_gate.html#a01925510e74cf3646e230c7bde23da5a" title=" " alt="" coords="407,56,569,83"/>
+<area shape="rect" id="node7" href="$class_abstract_gate.html#a798b7f9712206b5ef3ee8ab9732d07a1" title=" " alt="" coords="407,107,569,133"/>
+<area shape="rect" id="node6" href="$class_abstract_gate.html#a092008beeac8e9c9f8fccb5720784300" title=" " alt="" coords="617,81,777,108"/>
+</map>

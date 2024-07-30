@@ -1,0 +1,14 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,60,83"/>
+<area shape="rect" id="node2" href="$class_four_bit_adder.html#a6216885579925eb22a1b723b4ebaed16" title=" " alt="" coords="108,56,247,83"/>
+<area shape="rect" id="node3" href="$class_full_adder.html#a9cc2ac63e4a171fca1532318280ed32e" title=" " alt="" coords="297,5,443,32"/>
+<area shape="rect" id="node5" href="$class_full_adder.html#abf1c8fbde7b532999e42d4aa0616e909" title=" " alt="" coords="299,56,441,83"/>
+<area shape="rect" id="node7" href="$class_full_adder.html#a052d9d1d74a3309fb031844fb379c3f9" title=" " alt="" coords="295,107,445,133"/>
+<area shape="rect" id="node4" href="$class_half_adder.html#a79ea9823ff446a95032b933f914c511c" title=" " alt="" coords="495,5,646,32"/>
+<area shape="rect" id="node6" href="$class_half_adder.html#a38e0126a4cbd25cfdaf72e7399f09743" title=" " alt="" coords="498,56,643,83"/>
+<area shape="rect" id="node8" href="$class_half_adder.html#a26685c1162283948d2fb151c6368db72" title=" " alt="" coords="493,107,648,133"/>
+<area shape="rect" id="node9" href="$class_abstract_gate.html#ae608e9e36e35ec5422bb1c36266d4a35" title=" " alt="" coords="709,56,845,83"/>
+<area shape="rect" id="node10" href="$class_abstract_gate.html#a01925510e74cf3646e230c7bde23da5a" title=" " alt="" coords="696,107,859,133"/>
+<area shape="rect" id="node12" href="$class_abstract_gate.html#a798b7f9712206b5ef3ee8ab9732d07a1" title=" " alt="" coords="696,157,859,184"/>
+<area shape="rect" id="node11" href="$class_abstract_gate.html#a092008beeac8e9c9f8fccb5720784300" title=" " alt="" coords="907,132,1067,159"/>
+</map>
