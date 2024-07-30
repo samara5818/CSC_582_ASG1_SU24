@@ -7,7 +7,6 @@
 
 #include "../../FourBitAdder/intern/AbstractGate.h"
 
-
 /**
  * Sets pin #1.
  * @param unsigned int pin #1
